@@ -1,0 +1,12 @@
+PREDEF:
+  - preface.re
+
+CHAPS:
+  - takanorip.re
+  - mottox2.re
+  - nabettu.re
+
+APPENDIX:
+
+POSTDEF:
+  - contributors.re
