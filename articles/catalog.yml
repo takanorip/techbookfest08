@@ -2,9 +2,14 @@ PREDEF:
   - preface.re
 
 CHAPS:
-  - takanorip.re
+  - 1.re
+  - 2.re
+  - 3.re
+  - 4.re
+
 
 APPENDIX:
+  - figma-plugins-and-web-api.re
 
 POSTDEF:
   - contributors.re

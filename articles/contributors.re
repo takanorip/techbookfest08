@@ -1,12 +1,12 @@
-= Afterword
+= あとがき
+皆さんが無事にFigma導入できることを祈念いたします。
 
-
-== About the author
+== 著者紹介
 
 === 犬テトラ+
 急に作ったサークル。名前はジェネレーターで決めた。ロゴはGoogle Auto Drawで作った。
 
-=== takanorip(Takanori Oki)
+=== takanorip（大木尊紀）
 Frontend Developer / Interface Designer based in Tokyo.
 
 //emlist{
